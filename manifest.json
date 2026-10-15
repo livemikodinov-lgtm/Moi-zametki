@@ -1,0 +1,11 @@
+{
+  "name": "Мои заметки",
+  "short_name": "Заметки",
+  "description": "Личные заметки с локальным хранением",
+  "start_url": "./",
+  "scope": "./",
+  "display": "standalone",
+  "background_color": "#101b17",
+  "theme_color": "#a8e66b",
+  "icons": [{"src":"icon.svg","sizes":"any","type":"image/svg+xml","purpose":"any maskable"}]
+}
